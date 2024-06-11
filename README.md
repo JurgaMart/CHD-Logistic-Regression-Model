@@ -20,8 +20,7 @@ This logistic regression model can assist healthcare professionals in identifyin
 
 ### Resources
 - Google Doc with detailed report:
-https://docs.google.com/document/d/1xXl5C7nMJo17863MadojE00FyCEDY8rNSxNQwW6YLWQ/edit?usp=sharing![image](https://github.com/JurgaMart/CHD_Logistic_Regression_Model/assets/171131649/900179b6-486f-4200-9db9-6b7178fb8c99)
-
+https://docs.google.com/document/d/1xXl5C7nMJo17863MadojE00FyCEDY8rNSxNQwW6YLWQ/edit?usp=sharing!
 - Jupyter Notebook file: 
   **CHDlogRegFinal.ipynb**
 
