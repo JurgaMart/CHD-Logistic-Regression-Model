@@ -18,7 +18,10 @@ Key findings from the logistic regression analysis include:
 
 This logistic regression model can assist healthcare professionals in identifying patients at higher risk of developing CHD, allowing for timely preventive measures.
 
-### Google Doc with detailed report.
+### Resources
+- Google Doc with detailed report:
 https://docs.google.com/document/d/1xXl5C7nMJo17863MadojE00FyCEDY8rNSxNQwW6YLWQ/edit?usp=sharing![image](https://github.com/JurgaMart/CHD_Logistic_Regression_Model/assets/171131649/900179b6-486f-4200-9db9-6b7178fb8c99)
 
-### Jupyter Notebook file. 
+- Jupyter Notebook file: 
+  **CHDlogRegFinal.ipynb**
+
